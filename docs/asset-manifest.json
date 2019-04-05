@@ -1,6 +1,6 @@
 {
-  "static/js/0.chunk.js": "/static/js/0.chunk.js",
-  "main.js": "/static/js/main.chunk.js",
-  "runtime~main.js": "/static/js/bundle.js",
-  "index.html": "/index.html"
+  "static/js/0.chunk.js": "./react-fiber-sandbox/static/js/0.chunk.js",
+  "main.js": "./react-fiber-sandbox/static/js/main.chunk.js",
+  "runtime~main.js": "./react-fiber-sandbox/static/js/bundle.js",
+  "index.html": "./react-fiber-sandbox/index.html"
 }
