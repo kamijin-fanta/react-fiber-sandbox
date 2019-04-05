@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.bf9c796d.chunk.css",
-  "main.js": "/static/js/main.00cedbe4.chunk.js",
-  "main.js.map": "/static/js/main.00cedbe4.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.718ac366.chunk.js": "/static/js/2.718ac366.chunk.js",
-  "static/js/2.718ac366.chunk.js.map": "/static/js/2.718ac366.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.0ea772b504eeb87106649e205deaac05.js": "/precache-manifest.0ea772b504eeb87106649e205deaac05.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.bf9c796d.chunk.css.map": "/static/css/main.bf9c796d.chunk.css.map"
+  "main.css": "/react-fiber-sandbox/static/css/main.bf9c796d.chunk.css",
+  "main.js": "/react-fiber-sandbox/static/js/main.00cedbe4.chunk.js",
+  "main.js.map": "/react-fiber-sandbox/static/js/main.00cedbe4.chunk.js.map",
+  "runtime~main.js": "/react-fiber-sandbox/static/js/runtime~main.67c984b7.js",
+  "runtime~main.js.map": "/react-fiber-sandbox/static/js/runtime~main.67c984b7.js.map",
+  "static/js/2.718ac366.chunk.js": "/react-fiber-sandbox/static/js/2.718ac366.chunk.js",
+  "static/js/2.718ac366.chunk.js.map": "/react-fiber-sandbox/static/js/2.718ac366.chunk.js.map",
+  "index.html": "/react-fiber-sandbox/index.html",
+  "precache-manifest.e66ccec2a24ce1305afa6c6a0a732cb7.js": "/react-fiber-sandbox/precache-manifest.e66ccec2a24ce1305afa6c6a0a732cb7.js",
+  "service-worker.js": "/react-fiber-sandbox/service-worker.js",
+  "static/css/main.bf9c796d.chunk.css.map": "/react-fiber-sandbox/static/css/main.bf9c796d.chunk.css.map"
 }
