@@ -1,6 +1,13 @@
 {
-  "static/js/0.chunk.js": "/react-fiber-sandbox/static/js/0.chunk.js",
-  "main.js": "/react-fiber-sandbox/static/js/main.chunk.js",
-  "runtime~main.js": "/react-fiber-sandbox/static/js/bundle.js",
-  "index.html": "/react-fiber-sandbox/index.html"
+  "main.css": "/react-fiber-sandbox/static/css/main.bf9c796d.chunk.css",
+  "main.js": "/react-fiber-sandbox/static/js/main.02782a27.chunk.js",
+  "main.css.map": "/react-fiber-sandbox/static/css/main.bf9c796d.chunk.css.map",
+  "main.js.map": "/react-fiber-sandbox/static/js/main.02782a27.chunk.js.map",
+  "runtime~main.js": "/react-fiber-sandbox/static/js/runtime~main.a0839010.js",
+  "runtime~main.js.map": "/react-fiber-sandbox/static/js/runtime~main.a0839010.js.map",
+  "static/js/2.897aeedc.chunk.js": "/react-fiber-sandbox/static/js/2.897aeedc.chunk.js",
+  "static/js/2.897aeedc.chunk.js.map": "/react-fiber-sandbox/static/js/2.897aeedc.chunk.js.map",
+  "index.html": "/react-fiber-sandbox/index.html",
+  "precache-manifest.5eacd74fecd8e9a6660869180682cda2.js": "/react-fiber-sandbox/precache-manifest.5eacd74fecd8e9a6660869180682cda2.js",
+  "service-worker.js": "/react-fiber-sandbox/service-worker.js"
 }
